@@ -1,0 +1,1 @@
+The purpose of the project was to sell vehicles seized or found by the RTO on the RTO's own online platform.  It was a mini-project.  In this project, I worked on website design. I used HTML and CSS in this project.
